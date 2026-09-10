@@ -1,7 +1,6 @@
 class MubitCli < Formula
   desc "Command-line client for the Mubit console"
   homepage "https://github.com/mubit-ai/mubit-cli"
-  version "0.1.0"
 
   on_macos do
     on_arm do
